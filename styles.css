@@ -29,6 +29,14 @@ li {
   background-color: #929090;
   padding: 10px;
   border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+li:hover {
+  color: white;
+  background-color: black;
+  transition: 0.5s;
 }
 
 img {
